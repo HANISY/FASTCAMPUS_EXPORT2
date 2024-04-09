@@ -31,5 +31,6 @@
 
 ## 분석 보완 방향
 ```
-· 'list_price - discount_price ≠ sale_price' 인 데이터 처리 방안 모색 (전체 데이터의 약 26.59% 차지)
+· 'list_price - discount_price ≠ sale_price' 인 데이터 처리 방안이 필요함 (전체 데이터의 약 26.59% 차지)
+· 강의 금액의 94.1%가 50,000원 미만으로 해당 데이터를 분석하여 활용할 방안 모색
 ```

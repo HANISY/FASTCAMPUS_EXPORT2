@@ -29,7 +29,9 @@
 
 <p>
 <img src="https://github.com/HANISY/FASTCAMPUS_EXPORT2/blob/main/img/result_1.png?raw=true" width="800">
+<img src="https://github.com/HANISY/FASTCAMPUS_EXPORT2/blob/main/img/result_2.png?raw=true" width="800">
 </p>
+
 
 
 ### 분석 보완 방향

@@ -24,7 +24,7 @@
 8. 강의 신청을 완료한 유저는 약 63%이며 취소한 유저는 21%입니다. 
 9. 휴면 회원은 ID 생성 후 마지막 로그인까지 평균 154.11일이 소요되었습니다. 
 ```
-▶▶▶ [분석 과정 바로가기](https://github.com/HANISY/FASTCAMPUS_EXPORT2/blob/main/EXPORT2_FINAL_PROJECT.ipynb)
+📊 [ipynb](https://github.com/HANISY/FASTCAMPUS_EXPORT2/blob/main/EXPORT2_FINAL_PROJECT.ipynb)
 
 </br>
 
